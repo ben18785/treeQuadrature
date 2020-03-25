@@ -4,3 +4,5 @@ results/wandb/
 results/__pycache__/
 results/.ipynb_checkpoints/
 examples/prototyping - git ignore!.ipynb
+venv/*
+*.DS_Store
